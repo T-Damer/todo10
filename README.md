@@ -1,3 +1,5 @@
+![Untitled-1](https://user-images.githubusercontent.com/49658988/127908123-35af7136-2e8a-49f2-8eb0-418c9a9671a3.png)
+
 # todo10
 
 Simple web-page with adding and deleting tasks + storing them in localStorage
